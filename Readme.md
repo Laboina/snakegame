@@ -1,7 +1,7 @@
 # Snake game :video_game:
 
 Recriando o jogo da cobrinha.
-É possível movimentar, ver escore e perda.
+É possível movimentar, para cima, para baixo e para os lados, ver sua pontução e perda.
 Jogo simples e divertido, feito para fins de estudo.
 
 <img src="./assets/img/snake.png">
