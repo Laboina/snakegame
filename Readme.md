@@ -1,4 +1,4 @@
-# Snake game :videogame:
+# Snake game :video_game:
 
 Recriando o jogo da cobrinha.
 É possível movimentar, ver escore e perda.
