@@ -1,5 +1,7 @@
 # Snake game :video_game:
 
+## O que é o projeto?
+
 Recriando o jogo da cobrinha.
 É possível movimentar, para cima, para baixo e para os lados, ver sua pontução e perda.
 Jogo simples e divertido, feito para fins de estudo.
